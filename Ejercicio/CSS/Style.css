@@ -10,7 +10,13 @@ h1{
 }
 
 .Teclas{
+    font-size: 30px;
     text-align: center;
-    
+    font-family: Arial, Helvetica, sans-serif;
+    bottom:0px;
+    right:0px;
+
 }
+
+
 
